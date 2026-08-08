@@ -61,15 +61,6 @@ Prerequisites: XAMPP, PHP 8+, MySQL, and a modern web browser.
 5. Update database credentials in includes/database_connect.php.
 6. Open http://localhost/PGLife/ in your browser.
 
-■ Application Screenshots
-
-Home Page: images/homepage.png<br>
-Property Listing: images/property-listing.png<br>
-Property Details: images/property-details.png<br>
-User Login: images/login.png<br>
-Interested (AJAX): images/interested-feature.png<br>
-User Dashboard: images/dashboard.png<br>
-
 ■ Live Demo
 
 Website: https://thepg.infinityfreeapp.com
