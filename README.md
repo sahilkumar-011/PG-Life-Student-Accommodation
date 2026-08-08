@@ -33,45 +33,46 @@ Database: MySQL<br>
 Additional Technologies: AJAX, React<br>
 
 ■ Project Structure
-📁 PG-Life-Student-Accommodation
+
+📁 PG-Life-Student-Accommodation<br>
 │
-├── 📁 api
-│   ├── login_submit.php
-│   ├── signup_submit.php
-│   ├── toggle_interested.php
+├── 📁 api<br>
+│   ├── login_submit.php<br>
+│   ├── signup_submit.php<br>
+│   ├── toggle_interested.php<br>
+│   └── ...<br>
+│
+├── 📁 css<br>
+│   ├── style.css<br>
+│   └── ...<br>
+│
+├── 📁 database<br>
+│   └── thepg.sql<br>
+│
+├── 📁 images<br>
+│   ├── ...<br>
+│   └── ...<br>
+│
+├── 📁 includes<br>
+│   ├── database_connect.php<br>
+│   ├── login_modal.php<br>
 │   └── ...
 │
-├── 📁 css
-│   ├── style.css
-│   └── ...
+├── 📁 js<br>
+│   ├── property_list.js<br>
+│   └── ...<br>
 │
-├── 📁 database
-│   └── thepg.sql
+├── 📁 react<br>
+│   ├── App_final.js<br>
+│   ├── PropertyCard_final.js<br>
+│   └── ...<br>
 │
-├── 📁 images
-│   ├── ...
-│   └── ...
-│
-├── 📁 includes
-│   ├── database_connect.php
-│   ├── login_modal.php
-│   └── ...
-│
-├── 📁 js
-│   ├── property_list.js
-│   └── ...
-│
-├── 📁 react
-│   ├── App_final.js
-│   ├── PropertyCard_final.js
-│   └── ...
-│
-├── 📄 index.php
-├── 📄 property_list.php
-├── 📄 property_detail.php
-├── 📄 dashboard.php
-├── 📄 logout.php
-└── 📄 README.md
+├── 📄 index.php<br>
+├── 📄 property_list.php<br>
+├── 📄 property_detail.php<br>
+├── 📄 dashboard.php<br>
+├── 📄 logout.php<br>
+└── 📄 README.md<br>
 
 ■ Installation Guide
 
