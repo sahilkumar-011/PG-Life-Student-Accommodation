@@ -65,7 +65,7 @@ Additional Technologies: AJAX, React<br>
 ├── 📁 react<br>
 │   ├── App_final.js<br>
 │   ├── PropertyCard_final.js<br>
-│   └── ...<br>
+│   └── ...
 │
 ├── 📄 index.php<br>
 ├── 📄 property_list.php<br>
