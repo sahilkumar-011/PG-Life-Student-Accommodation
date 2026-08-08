@@ -72,7 +72,7 @@ Website: https://thepg.infinityfreeapp.com
 Import the following SQL file before running the project:
 
 📁 database<br>
-  ├─ thepg.sql<br>
+├─ thepg.sql<br>
   
 ■ Learning Outcomes
 
@@ -95,11 +95,11 @@ real-world student accommodation platform.
 
 ■■■ Author
 
-Sahil
+Sahil kumar
 
 ■ License
 
 This project is developed solely for educational and training purposes as part of the Internshala Full Stack Web
 Development Training.
 
-© 2026 Sahil. All Rights Reserved.
+© 2026 Sahil kumar. All Rights Reserved.
