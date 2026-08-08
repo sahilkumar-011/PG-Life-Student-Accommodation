@@ -15,15 +15,15 @@ component-based UI development.
 
 ■ Key Features
 
-• Secure User Registration & Login
-• Browse PG Properties by City
+• Secure User Registration & Login<br>
+• Browse PG Properties by City<br>
 • Detailed Property Information
-• Property Price, Ratings & Gender Information
-• Interested / Shortlist Feature using AJAX
-• Fully Responsive User Interface
-• Dynamic Data Rendering using PHP & MySQL
-• React Component Integration
-• Live Deployment on InfinityFree
+• Property Price, Ratings & Gender Information<br>
+• Interested / Shortlist Feature using AJAX<br>
+• Fully Responsive User Interface<br>
+• Dynamic Data Rendering using PHP & MySQL<br>
+• React Component Integration<br>
+• Live Deployment on InfinityFree<br>
 
 ■■ Technology Stack
 
