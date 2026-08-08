@@ -27,10 +27,10 @@ component-based UI development.
 
 ■■ Technology Stack
 
-Frontend: HTML5, CSS3, Bootstrap 5, JavaScript
-Backend: PHP
-Database: MySQL
-Additional Technologies: AJAX, React
+Frontend: HTML5, CSS3, Bootstrap 5, JavaScript<br>
+Backend: PHP<br>
+Database: MySQL<br>
+Additional Technologies: AJAX, React<br>
 
 ■ Project Structure
 
