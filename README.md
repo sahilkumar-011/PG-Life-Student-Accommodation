@@ -34,21 +34,21 @@ Additional Technologies: AJAX, React<br>
 
 ■ Project Structure
 
-PG-Life/
-■■■ api/
-■■■ css/
-■■■ img/
-■■■ includes/
-■■■ js/
-■■■ react-app/
-■■■ index.php
-■■■ property_list.php
-■■■ property_detail.php
-■■■ login.php
-■■■ signup.php
-■■■ dashboard.php
-■■■ README.md
-■■■ PGLife_Complete_Database.sql
+PG-Life/<br>
+■■■ api/<br>
+■■■ css/<br>
+■■■ img/<br>
+■■■ includes/<br>
+■■■ js/<br>
+■■■ react-app/<br>
+■■■ index.php<br>
+■■■ property_list.php<br>
+■■■ property_detail.php<br>
+■■■ login.<br>
+■■■ signup.php<br>
+■■■ dashboard.php<br>
+■■■ README.md<br>
+■■■ Database<br>
 
 ■ Installation Guide
 
