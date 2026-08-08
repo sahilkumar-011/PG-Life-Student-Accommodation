@@ -33,22 +33,45 @@ Database: MySQL<br>
 Additional Technologies: AJAX, React<br>
 
 ■ Project Structure
-
-PG-Life/<br>
-■■■ api/<br>
-■■■ css/<br>
-■■■ img/<br>
-■■■ includes/<br>
-■■■ js/<br>
-■■■ react-app/<br>
-■■■ index.php<br>
-■■■ property_list.php<br>
-■■■ property_detail.php<br>
-■■■ login.<br>
-■■■ signup.php<br>
-■■■ dashboard.php<br>
-■■■ README.md<br>
-■■■ Database<br>
+📁 PG-Life-Student-Accommodation
+│
+├── 📁 api
+│   ├── login_submit.php
+│   ├── signup_submit.php
+│   ├── toggle_interested.php
+│   └── ...
+│
+├── 📁 css
+│   ├── style.css
+│   └── ...
+│
+├── 📁 database
+│   └── thepg.sql
+│
+├── 📁 images
+│   ├── ...
+│   └── ...
+│
+├── 📁 includes
+│   ├── database_connect.php
+│   ├── login_modal.php
+│   └── ...
+│
+├── 📁 js
+│   ├── property_list.js
+│   └── ...
+│
+├── 📁 react
+│   ├── App_final.js
+│   ├── PropertyCard_final.js
+│   └── ...
+│
+├── 📄 index.php
+├── 📄 property_list.php
+├── 📄 property_detail.php
+├── 📄 dashboard.php
+├── 📄 logout.php
+└── 📄 README.md
 
 ■ Installation Guide
 
