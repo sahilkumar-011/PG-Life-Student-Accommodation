@@ -34,46 +34,17 @@ Additional Technologies: AJAX, React<br>
 
 ■ Project Structure
 
-📁 PG-Life-Student-Accommodation<br>
-│
-├── 📁 api<br>
-│   ├── 📄 login_submit.php<br>
-│   ├── 📄 signup_submit.php<br>
-│   ├── 📄 toggle_interested.php<br>
-│   └── 📄 ...<br>
-│
-├── 📁 css<br>
-│   ├── 📄 style.css<br>
-│   └── 📄 ...<br>
-│
-├── 📁 database<br>
-│   └── 📄 thepg.sql<br>
-│
-├── 📁 images<br>
-│   ├── 📄 property1.jpg<br>
-│   ├── 📄 property2.jpg<br>
-│   └── 📄 ...<br>
-|
-├── 📁 includes<br>
-│   ├── 📄 database_connect.php<br>
-│   ├── 📄 login_modal.php<br>
-│   └── 📄 ...<br>
-│
-├── 📁 js<br>
-│   ├── 📄 property_list.js<br>
-│   └── 📄 ...<br>
-│
-├── 📁 react<br>
-│   ├── 📄 App_final.js<br>
-│   ├── 📄 PropertyCard_final.js<br>
-│   └── 📄 ...<br>
-│
-|── 📄 index.php<br>
-├── 📄 property_list.php<br>
-├── 📄 property_detail.php<br>
-├── 📄 dashboard.php<br>
-├── 📄 logout.php<br>
-└── 📄 README.md<br>
+📁 api<br>
+📁 css<br>
+📁 database<br>
+📁 images<br>
+📁 includes<br>
+📁 js<br>
+📄 index.php<br>
+📄 property_list.php<br>
+📄 property_detail.php<br>
+📄 dashboard.php<br>
+📄 README.md<br>
 
 ■ Installation Guide
 
