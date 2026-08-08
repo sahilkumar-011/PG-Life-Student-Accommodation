@@ -56,18 +56,6 @@ Additional Technologies: AJAX, React<br>
 
 
 
-**■ Installation Guide****
-
-Prerequisites: XAMPP, PHP 8+, MySQL, and a modern web browser.
-
-1. Clone or download the repository.
-2. Move the project folder to the htdocs directory inside XAMPP.
-3. Start Apache and MySQL from the XAMPP Control Panel.
-4. Import PGLife_Complete_Database.sql into phpMyAdmin.
-5. Update database credentials in includes/database_connect.php.
-6. Open http://localhost/PGLife/ in your browser.
-
-
 **■ Live Demo**
 
 Website: https://thepg.infinityfreeapp.com
