@@ -4,6 +4,7 @@ A full-stack web application developed as part of the Internshala Full Stack Web
 help students and working professionals discover, explore, and shortlist Paying Guest (PG) accommodations
 across multiple cities.
 
+
 **■ Overview**
 
 PG Life is a responsive web application that simplifies the process of finding suitable student accommodation. The
@@ -12,6 +13,7 @@ mark properties as interested.
 The application is built using a full-stack architecture with PHP and MySQL on the backend, HTML, CSS,
 Bootstrap, and JavaScript on the frontend, AJAX for asynchronous interactions, and React for
 component-based UI development.
+
 
 **■ Key Features**
 
@@ -25,12 +27,14 @@ component-based UI development.
 • React Component Integration<br>
 • Live Deployment on InfinityFree<br>
 
+
 **■ Technology Stack**
 
 Frontend: HTML5, CSS3, Bootstrap 5, JavaScript<br>
 Backend: PHP<br>
 Database: MySQL<br>
 Additional Technologies: AJAX, React<br>
+
 
 **■ Project Structure**
 
@@ -63,9 +67,11 @@ Prerequisites: XAMPP, PHP 8+, MySQL, and a modern web browser.
 5. Update database credentials in includes/database_connect.php.
 6. Open http://localhost/PGLife/ in your browser.
 
+
 **■ Live Demo**
 
 Website: https://thepg.infinityfreeapp.com
+
 
 **■ Database**
 
@@ -73,6 +79,7 @@ Import the following SQL file before running the project:
 
 📁 database<br>
 ├─ thepg.sql<br>
+
   
 **■ Learning Outcomes**
 
@@ -87,19 +94,23 @@ Import the following SQL file before running the project:
 • Full Stack Web Development
 • Live Website Deployment
 
+
 **■ Developed For**
 
 Internshala Full Stack Web Development Training
 This project was developed to demonstrate practical knowledge of modern web development concepts through a
 real-world student accommodation platform.
 
+
 **■ Author**
 
 Sahil kumar
+
 
 **■ License**
 
 This project is developed solely for educational and training purposes as part of the Internshala Full Stack Web
 Development Training.
+
 
 **© 2026 Sahil kumar. All Rights Reserved.**
