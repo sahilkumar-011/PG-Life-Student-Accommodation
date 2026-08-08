@@ -63,12 +63,12 @@ Prerequisites: XAMPP, PHP 8+, MySQL, and a modern web browser.
 
 ■ Application Screenshots
 
-Home Page: images/homepage.png
-Property Listing: images/property-listing.png
-Property Details: images/property-details.png
-User Login: images/login.png
-Interested (AJAX): images/interested-feature.png
-User Dashboard: images/dashboard.png
+Home Page: images/homepage.png<br>
+Property Listing: images/property-listing.png<br>
+Property Details: images/property-details.png<br>
+User Login: images/login.png<br>
+Interested (AJAX): images/interested-feature.png<br>
+User Dashboard: images/dashboard.png<br>
 
 ■ Live Demo
 
