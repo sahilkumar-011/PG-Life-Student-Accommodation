@@ -1,10 +1,10 @@
 <?php
 // TODO: Replace these 4 values with the ones from your InfinityFree control panel
 // (MySQL Databases section). Host is usually something like "sqlXXX.infinityfree.com".
-$db_host = "sql106.infinityfree.com";
-$db_user = "if0_42591452";
-$db_pass = "JCgdhkvyq49PJ";
-$db_name = "if0_42591452_thepg";
+$db_host = "YOUR_DATABASE_HOST";
+$db_user = "YOUR_DATABASE_USERNAME";
+$db_pass = "YOUR_DATABASE_PASSWORD";
+$db_name = "YOUR_DATABASE_NAME";
 $conn = mysqli_connect($db_host, $db_user, $db_pass, $db_name);
 
 if (mysqli_connect_errno()) {
