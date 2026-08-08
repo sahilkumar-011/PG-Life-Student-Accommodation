@@ -40,11 +40,17 @@ Additional Technologies: AJAX, React<br>
 📁 images<br>
 📁 includes<br>
 📁 js<br>
-📄 index.php<br>
-📄 property_list.php<br>
-📄 property_detail.php<br>
-📄 dashboard.php<br>
+📁 react-app<br>
 📄 README.md<br>
+📄 dashboard.php<br>
+📄 demo_notice.php<br>
+📄 favicon.ico<br>
+📄 index.php<br>
+📄 logout.php<br>
+📄 property_detail.php<br>
+📄 property_list.php<br>
+
+
 
 ■ Installation Guide
 
