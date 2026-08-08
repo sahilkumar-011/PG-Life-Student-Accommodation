@@ -71,8 +71,9 @@ Website: https://thepg.infinityfreeapp.com
 
 Import the following SQL file before running the project:
 
-PGLife_Complete_Database.sql
-
+📁 database<br>
+  ├── thepg.sql<br>
+  
 ■ Learning Outcomes
 
 • Responsive Web Design
