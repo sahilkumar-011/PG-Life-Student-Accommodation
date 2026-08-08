@@ -1,4 +1,4 @@
-■ PG Life – Student Accommodation Website
+**■ PG Life – Student Accommodation Website**
 
 A full-stack web application developed as part of the Internshala Full Stack Web Development Training to
 help students and working professionals discover, explore, and shortlist Paying Guest (PG) accommodations
