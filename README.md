@@ -56,7 +56,7 @@ Additional Technologies: AJAX, React<br>
 ├── 📁 includes<br>
 │   ├── database_connect.php<br>
 │   ├── login_modal.php<br>
-│   └── ...
+│   └── ...<br>
 │
 ├── 📁 js<br>
 │   ├── property_list.js<br>
