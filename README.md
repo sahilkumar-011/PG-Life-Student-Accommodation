@@ -72,7 +72,7 @@ Website: https://thepg.infinityfreeapp.com
 Import the following SQL file before running the project:
 
 📁 database<br>
-  ├── thepg.sql<br>
+├─ thepg.sql<br>
   
 ■ Learning Outcomes
 
